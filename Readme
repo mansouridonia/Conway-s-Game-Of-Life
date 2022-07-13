@@ -1,0 +1,9 @@
+/**************************     Steps to install      **************************/
+1) install parcel: -npm install -g parcel-bundler
+                   -npm init -y
+2) wsl if you are in Windows
+3) parcel index.html
+4) Go to localhost:1234
+/******************************************************************************/
+- We can randomize configuration
+- Stop the game on choice
